@@ -35,5 +35,5 @@ Il est conçu pour les développeurs ou passionnés souhaitant expérimenter la 
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/voice-assistant.git
+git clone https://github.com/rayenth/voice-assistant.git
 cd voice-assistant
