@@ -30,6 +30,11 @@ Il est conçu pour les développeurs ou passionnés souhaitant expérimenter la 
 
 ---
 
+## Description
+
+Ce projet est un assistant vocal simple qui enregistre votre voix, la transcrit en texte à l’aide du modèle Whisper d’OpenAI, puis génère une réponse avec LLaMA via Ollama, et enfin lit cette réponse à voix haute.
+
+
 ## Installation
 
 1. Cloner le dépôt :
